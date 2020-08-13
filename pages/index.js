@@ -103,6 +103,17 @@ const FACILITY_FAQ = [
     answer:
       "If you are a validated participating member of Louisiana Health Work Connect, a tailored spreadsheet of applicants will be emailed to the Human Resources representative designated on the intake form.",
   },
+  {
+    question: "Find more nursing homes and hospitals",
+    answer: (
+      <span>
+        If you have additional staffing needs not met by Louisiana Health Work Connect, these Staffing Agencies may be able to meet your needs. Download spreadsheet here.{" "}
+        <a href="http://ldh.la.gov/assets/docs/OrgCharts/RegionMap.jpg">
+          Additional staffing agencies
+        </a>{" "}
+      </span>
+    ),
+  },
 ];
 
 
